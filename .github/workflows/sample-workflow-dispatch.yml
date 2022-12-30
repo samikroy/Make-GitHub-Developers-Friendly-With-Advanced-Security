@@ -1,4 +1,4 @@
-name: Sample Scheduler Workflow (Every 5 min)
+name: Sample Manual Dispatch Workflow
 
 # Controls when the workflow will run
 on:
